@@ -1,7 +1,7 @@
 <h1 align="center">Siddhi Savji</h1>
 
 <p align="center" style="font-size:15px; color:#666;">
-  Software Developer · Android · Java · DSA
+  Software Developer · Android · DSA
 </p>
 
 <p align="center" style="font-size:15px; margin-top:20px;">
