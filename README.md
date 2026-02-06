@@ -19,19 +19,14 @@
 </p>
 
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-savji-148515330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Siddhisavji24@gmail.com) 
-
-
 <br><br>
 
 
 
 
-
 # 💻 Tech Stack:
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -55,3 +50,27 @@
 </p>
 
 
+<br><br>
+
+## 🌐 Socials:
+
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhi-savji-148515330" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:siddhisavji24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/siddhisavji_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-savji-148515330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Siddhisavji24@gmail.com) 
+
+
+<br><br>
