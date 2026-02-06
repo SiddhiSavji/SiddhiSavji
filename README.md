@@ -85,3 +85,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhisavji&theme=react-dark&hide_border=true" />
 
 
+<br><br>
+## 😭 Weakness
+<br>
+
+- Overthinks UI  
+- Fixes code at 2AM  
+- Coffee dependent  
+
+
